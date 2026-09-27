@@ -2,3 +2,10 @@ main.dSYM
 main
 *.swp
 .DS_Store
+
+# CMake artifacts
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+cmake-build-*/
